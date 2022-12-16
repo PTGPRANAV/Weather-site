@@ -1,0 +1,11 @@
+.container {
+    margin-top: 60px;
+}
+
+body{
+    background-color: rgb(246, 253, 253);
+}
+
+.fw-normal{
+    color: white;
+}
